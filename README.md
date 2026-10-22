@@ -85,6 +85,21 @@ Below is the structured roadmap following my learning module:
 | 🖼️ **Gallery Project** | API Fetching, `useEffect`, Grid Layout | 🔴 Upcoming |
 
 ---
+Hi there! 👋 I'm **Zainab Naeem**. This repository reflects my commitment to building a rock-solid foundation in software engineering through continuous practice, disciplined coding, and logical problem-solving in C++.
+
+<p align="center">
+  <a href="https://github.com/zainab-naeem-20"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/zainab-naeem-1ab38a312/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<div align="center">
+
+  ⭐️ Designed & Maintained with 💖 by **Zainab Naeem** ⭐️
+   <p>
+
+  <img src="https://hits.sh/github.com/zainab-naeem-20/react-mastery-hub.svg?label=Repo%20Views&color=ff69b4&logo=github" alt="Profile Views"/>
+
+</p>
 
 ## ⚙️ How to Run Locally
 
